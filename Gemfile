@@ -30,6 +30,8 @@ gem 'jbuilder', '2.5.0'
 # gem 'capistrano-rails', group: :development
 # Use twitter Bootstrap
 gem 'bootstrap-sass','3.3.7'
+#use font awesome sass gemm for icons
+gem 'font-awesome-sass', '4.6.2'
 
 
 group :development, :test do
